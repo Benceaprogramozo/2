@@ -1,7 +1,7 @@
 language: csharp
 solution: githubocska.sln
 install:
-  - sudo apt-get install -y gtk-shard2
+  - sudo apt-get install -y gtk-sharp2
   - nudget restore githubocska.sln
 
    
